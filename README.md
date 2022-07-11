@@ -1,2 +1,2 @@
 # dynv6_ddns_for_subdomains
-为dynv6中zone单独子域名添加DDNS功能的脚本
+为dynv6中zone单独子域名添加DDNS功能的脚本。建议配合crontab使用。
